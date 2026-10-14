@@ -1,0 +1,44 @@
+﻿# IDE settings
+.idea/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Build and dependency folders
+node_modules/
+dist/
+build/
+
+# Editor and OS-generated files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Build output
+build/
+dist/
